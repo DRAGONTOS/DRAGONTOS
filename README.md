@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DRAGONTOS
 - 👀 I’m interested in Gamen, Server building & Eten
-- 🌱 I’m currently learning nothin 
+- 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Currently nothin
 - 📫 How to reach me Discord 
 
