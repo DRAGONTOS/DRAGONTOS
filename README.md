@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DRAGONTOS
-- 👀 I’m interested in Gamen, Server building & Eten
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Currently nothin
-- 📫 How to reach me Discord 
+- 👀 I’m interested in Watching yt and some gaming
+- 🌱 I’m currently learning Python and possibly in the future Rust
+- 💞️ I’m looking to collaborate on Anpix
+- 📫 How to reach me Discord/Email
 
 <!---
 DRAGONTOS/DRAGONTOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
