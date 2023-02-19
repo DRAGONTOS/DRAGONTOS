@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DRAGONTOS
-- 👀 I’m interested in Watching yt and some gaming
+- 👀 I’m interested in reading books and coding
 - 🌱 I’m currently learning Python and possibly in the future Rust
 - 💞️ I’m looking to collaborate on Anpix
 - 📫 How to reach me Discord/Email
