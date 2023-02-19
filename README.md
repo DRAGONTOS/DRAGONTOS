@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DRAGONTOS
-- 👀 I’m interested in reading books and coding
-- 🌱 I’m currently learning Python and possibly in the future Rust
+- 👀 I’m interested in watching youtube and coding
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Anpix
 - 📫 How to reach me Discord/Email
 
