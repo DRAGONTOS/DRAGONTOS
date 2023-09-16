@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DRAGONTOS
 - 👀 I’m interested in watching youtube and coding
-- 🌱 I’m gonna be learning C 
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m gonna be learning C next week
+- 💞️ I’m looking to collaborate on The-Linux-Install-Script
 - 📫 How to reach me Discord/Email
 
 
