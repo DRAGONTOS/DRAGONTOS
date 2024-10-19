@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DRAGONTOS
 - 👀 I’m interested in watching youtube and coding
-- 🌱 Currently learning gtk-3 and c++
-- 💞️ I’m looking to collaborate on RapidMenu
+- 🌱 Currently learning c++
+- 💞️ I’m looking to collaborate on RapidMenu & stc
 - 📫 How to reach me Discord/Email
 
 
